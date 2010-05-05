@@ -1,0 +1,95 @@
+/* The content of this file is in the public domain. */
+
+body {
+  font-family: DejaVu Sans, sans-serif;
+  font-size: 11pt;
+  line-height: 140%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Georgia, Linux Libertine, Times New Roman, serif;
+  font-weight: normal;
+}
+
+table {
+  margin: 1em;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0 0.5em;
+  line-height: 200%;
+}
+
+th {
+  font-weight: normal;
+  text-align: left;
+  vertical-align: top;
+}
+
+/*th a, td a {
+  display: block;
+}*/
+
+td {
+  background-color: #eee;
+  border: 1px solid white;
+}
+
+td.vertical {
+  min-width: 10em;
+}
+
+tr:hover td {
+  background-color: #ddd;
+}
+
+a {
+  color: #3465a4;
+  text-decoration: underline;
+}
+
+td.neg {
+  padding-right: 0;
+  text-align: right;
+}
+
+td.pos {
+  padding-left: 0;
+  text-align: left;
+}
+
+.num {
+  text-align: right;
+}
+
+.enum {
+  font-style: italic;
+}
+
+#edit-panel {
+  border: 1px dashed gray;
+}
+
+#spinner {
+  padding: 1em;
+  vertical-align: middle;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+td img.avatar {
+  padding: 0;
+  vertical-align: middle;
+}
+
+.change {
+  color: gray;
+}
+

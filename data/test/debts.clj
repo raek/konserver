@@ -1,0 +1,1 @@
+#{{:current true, :comment "initial", :name "Test Debt", :amount 100, :editor :test, :added {:year 2010, :month 5, :day 1, :hour 23, :minute 0, :second 13}, :creditor :admin, :updated {:year 2010, :month 5, :day 1, :hour 23, :minute 0, :second 13}, :rev 1, :id 1, :description "An example of a debt", :debtors #{:test :admin}, :deleted false}}

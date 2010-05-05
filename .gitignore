@@ -1,0 +1,6 @@
+.slime-socket
+*~
+pom.xml
+*jar
+lib/*
+classes/*

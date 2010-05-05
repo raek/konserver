@@ -1,0 +1,1 @@
+#{{:user :test, :added {:year 2010, :month 5, :day 1, :hour 22, :minute 59, :second 45}, :updated {:year 2010, :month 5, :day 1, :hour 23, :minute 0, :second 13}, :current-balance -50} {:user :admin, :added {:year 2010, :month 5, :day 1, :hour 22, :minute 43, :second 5}, :updated {:year 2010, :month 5, :day 1, :hour 23, :minute 0, :second 13}, :current-balance 50}}
